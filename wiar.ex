@@ -7,6 +7,10 @@
 """
 - Growing Applications and Taming Complexity (https://www.youtube.com/watch?v=Ue--hvFzr0o)
 - Architecting Flow in Elixir From Leveraging Pipes (https://www.youtube.com/watch?v=ycpNi701aCs)
+- Texas : Virtual DOM Library for Server Side V DOM (https://www.youtube.com/watch?v=NWgwUKfR8Xg)
+- Down the Memory Lane a Tale of Memory Leaks (https://www.youtube.com/watch?v=3ZO7LFELhys)
+- Beyond Command and Response Chatbot (https://www.youtube.com/watch?v=GorU5oEbf-c)
+- Event Sourcing in Real World (https://www.youtube.com/watch?v=ESRjkG5f7wg)
 """
 
 # Books
