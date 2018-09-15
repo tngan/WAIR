@@ -6,6 +6,7 @@
 
 """
 - Growing Applications and Taming Complexity (https://www.youtube.com/watch?v=Ue--hvFzr0o)
+- Architecting Flow in Elixir From Leveraging Pipes (https://www.youtube.com/watch?v=ycpNi701aCs)
 """
 
 # Books
