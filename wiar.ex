@@ -23,4 +23,5 @@
 
 """
 - How Discord Scaled Elixir to 5,000,000 Concurrent Users (https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b)
+- Recompile deps for testing/tracing error (http://blog.plataformatec.com.br/2016/03/inspecting-changing-and-debugging-elixir-project-dependencies/)
 """
